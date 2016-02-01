@@ -7,6 +7,8 @@
 2. [Download the Zip](https://github.com/liamks/csc490-a3/archive/master.zip) or clone this repo to your computer.
 3. In the terminal navigate to `csc490-a3/` then run `npm install`. This will install all of `a3`'s dependencies.
 
+**If you are new to AngularJS** I recommend reading [AngularJS' Conceptual Overview](https://docs.angularjs.org/guide/concepts) and watching the first few free videos on [egghead.io](https://egghead.io/technologies/angularjs?order=ASC) - they're short and very informative. If you hit dead ends google them first!
+
 ## Part 1: JavaScript *(10 Points)*
 
 In the `js/` folder there are two files:
