@@ -51,7 +51,8 @@ Todo:
 1. Create 2 new routes (`'/add'` and `'/update/:id'`) and map them to their respective controllers and templates. *(1 Point)*
 2. Create 2 new controllers `addCtrl.js` and `updateCtrl.js` and add references to them in `index.html. *(1 Point)*
 3. Create 1 (or two) templates for the above controllers. *(2 Points)*
-4. Ensure that each pages works as above (you'll need to connect both controllers with the `addressBook.js` service and ensure that once an person is added or updated, that the app redirect's the user to the homepage. [Read this for tips on redirection](https://docs.angularjs.org/guide/$location) *(6 Points)*
+4. Ensure that each pages works as above (you'll need to connect both controllers with the `addressBook.js` service and ensure that once an person is added or updated, that the app redirect's the user to the homepage. [Read this for tips on redirection](https://docs.angularjs.org/guide/$location) *(4 Points)*
+5. Adding 2 extra fields for people: 1) phone-number and 2) email address. These fields should appear in the add and update pages and should be viewable on the homepage. *(2 points)*
 
 
 ##### Navigating to add and update *(5 Points)*
