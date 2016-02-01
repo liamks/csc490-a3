@@ -1,10 +1,11 @@
 # Assignment 3: JavaScript & AngularJS
-**Due**: February 9th 6pm | *50 Points Total*
+**Due**: February 9th 6pm | *50 Points Total* | Weight: 15%
 
 ## Setup
 
 1. Install nodeJS (if you haven't already)
-2. In the terminal navigate to `a3/` then run `npm install`. This will install all of `a3`'s dependencies.
+2. [Download the Zip](https://github.com/liamks/csc490-a3/archive/master.zip) or clone this repo to your computer.
+3. In the terminal navigate to `csc490-a3/` then run `npm install`. This will install all of `a3`'s dependencies.
 
 ## Part 1: JavaScript *(10 Points)*
 
