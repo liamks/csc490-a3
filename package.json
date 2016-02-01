@@ -1,0 +1,17 @@
+{
+  "name": "a3",
+  "version": "1.0.0",
+  "description": "Assignment 3 for CSC490/2900",
+  "main": "run.js",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+  },
+  "author": "Liam Kaufman <liam.kaufman@gmail.com> (liamkaufman.com)",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-core": "2.4.1",
+    "karma": "0.13.19",
+    "karma-chrome-launcher": "0.2.2",
+    "karma-jasmine": "0.3.6"
+  }
+}
