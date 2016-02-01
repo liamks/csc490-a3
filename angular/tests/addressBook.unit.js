@@ -11,7 +11,7 @@ describe('addressBook', function(){
   beforeEach(angular.mock.module('services'));
   beforeEach(inject(function(addressBook){
     addrBook = addressBook;
-    addrBook.people = people;
+    addrBook.people = angular.copy(people);
   }));
 
   describe('all', function(){
